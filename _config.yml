@@ -3,7 +3,7 @@ baseurl:
 # Site settings
 title: Kat Heiden | Writer & Storyteller
 email: kat.heiden22@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Storytelling is the way we’ve communicated with each other for millennia, and it works. That’s why storytelling is the basis of everything I do."
 
 
 # Team names, titles and social links
@@ -12,12 +12,12 @@ people:
   pic: 1
   position: Writer - Storyteller
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  - title: twitter
+    url: http://twitter.com/imagine_kat
+  - title: facebook
+    url: https://www.facebook.com/kat.heiden
+  - title: linkedin
+    url: https://www.linkedin.com/in/katheiden22/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
