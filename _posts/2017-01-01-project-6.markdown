@@ -4,8 +4,8 @@ subtitle: Alpha Gamma Delta
 layout: default
 modal-id: 6
 date: 2017-01-01
-img: Profile.png
-thumbnail: Profile.png
+img: profile.png
+thumbnail: profile.png
 alt: Profile for Alpha Gamma Delta
 client: Alpha Gamma Delta
 project-date: 2017
