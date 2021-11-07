@@ -446,7 +446,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 .timeline>li {
@@ -494,7 +494,7 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 5px solid #{{ site.data.template.color.primary }};
     border-radius: 100%;
     text-align: center;
     color: #fff;
@@ -529,6 +529,7 @@ section h3.section-subheading {
 
 .timeline>li:last-child {
     margin-bottom: 0;
+
 }
 
 .timeline .timeline-heading h4 {
