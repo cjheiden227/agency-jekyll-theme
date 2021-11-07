@@ -4,8 +4,8 @@ subtitle: California Science Center
 layout: default
 modal-id: 3
 date: 2015-01-01
-img: CASC Brochure.png
-thumbnail: CASC Brochure.png
+img: CASC brochure.png
+thumbnail: CASC brochure.png
 alt: Join the Mission
 client: California Science Center
 project-date: 2015
