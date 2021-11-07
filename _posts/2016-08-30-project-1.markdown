@@ -8,7 +8,7 @@ img: CASC Proposal Thumb.png
 thumbnail: CASC Proposal Thumb.png
 alt: Proposal for the John and Jane Smith Foundation
 client: California Science Center
-project-date: August 30, 2016
+project-date: 2016
 category: Propoosal Writing
 description: As part of the EndeavourLA Campaign for the amuel Oschin Air and Space Center, I created a proposal to secure a $7 million grant. 
 
