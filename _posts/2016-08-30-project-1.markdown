@@ -2,7 +2,7 @@
 title: Grant Proposal
 subtitle: California Science Center
 layout: default
-modal-id: 1
+modal-id: 5
 date: 2016-08-30
 img: CASC Proposal Thumb.png
 thumbnail: CASC Proposal Thumb.png
@@ -10,6 +10,6 @@ alt: Proposal for the John and Jane Smith Foundation
 client: California Science Center
 project-date: 2016
 category: Propoosal Writing
-description: As part of the EndeavourLA Campaign for the amuel Oschin Air and Space Center, I created a proposal to secure a $7 million grant. 
+description: As part of the EndeavourLA Campaign for the amuel Oschin Air and Space Center, I created a proposal to secure a $7 million grant. <br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1-EbgHRWC9xFmhJMM4MXtBEfTGExM5ckc/view?usp=sharing" target="_">See It Here</a>
 
 ---

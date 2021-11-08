@@ -2,7 +2,7 @@
 title: Profile
 subtitle: Alpha Gamma Delta
 layout: default
-modal-id: 6
+modal-id: 4
 date: 2017-01-01
 img: profile.png
 thumbnail: profile.png
@@ -10,6 +10,6 @@ alt: Profile for Alpha Gamma Delta
 client: Alpha Gamma Delta
 project-date: 2017
 category: Personal Profile
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1yJqvhj1b7h9Xbq79h84WvoiiCH-Wdh4T/view?usp=sharing" target="_">See It Here</a>
 
 ---

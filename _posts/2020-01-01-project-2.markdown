@@ -2,7 +2,7 @@
 title: Magazine Article
 subtitle: Colorado School of Mines Foundation
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2020-01-01
 img: mines.png
 thumbnail: mines thumb.png
@@ -10,6 +10,6 @@ alt: All in the (Oredigger) Family
 client: Colorado School of Mines
 project-date: 2020
 category: Marketing Content
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1SgIvQK7_dPxl3422V3SBUSRwCeDgIx4_/view?usp=sharing" target="_">See It Here</a>
 
 ---
