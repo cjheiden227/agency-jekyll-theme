@@ -1,5 +1,5 @@
 ---
-title: Instructional Graphic
+title: Infographic
 subtitle: Colorado School of Mines Foundation
 layout: default
 modal-id: 3
@@ -10,6 +10,6 @@ alt: Mines Path to Entrepreurship and Innovation Success
 client: Colorado School of Mines Foundation
 project-date: 2019
 category: Graphics
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1y7FubXI-WVptjvDFi9Qo_yO5G2qcxpKz/view?usp=sharing" target="_">See It Here</a>
+description: <h3>Why I Like It</h3>This started as a tool to help me understand the journey students take through the new Entrepreneurship & Innovation programming at Colorado School of Mines. Ultimately, it turned into a conceptual framework that would serve as the basis for explaining E&I to a variety of internal and external audiences. Using a more systems-thinking approach along with my creativity was a treat on this project.<br><br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1y7FubXI-WVptjvDFi9Qo_yO5G2qcxpKz/view?usp=sharing" target="_">See It Here</a>
 
 ---

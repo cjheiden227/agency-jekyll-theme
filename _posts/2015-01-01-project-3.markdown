@@ -10,6 +10,6 @@ alt: Join the Mission
 client: California Science Center
 project-date: 2015
 category: Marketing Content
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1LXcBxfjx8h-BsDXcZ3ZUlO14wg4Gc1AO/view?usp=sharing" target="_">See It Here</a>
+description: <h3>Why I Like It</h3> When one of the executives at the California Science Center asked for a volunteer to conceptualize and write this brochure, I leaped at the chance. I collaborated cross-departmentally to produce the final piece, which was proudly shared with everyone from funders to the general public. Creating this brochure, I loved breaking down the Science Center’s mission in a way that told its story as a community resource, a hub for curiosity and learning, and a fun destination for anyone. <br> <br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1LXcBxfjx8h-BsDXcZ3ZUlO14wg4Gc1AO/view?usp=sharing" target="_">See It Here</a>
 
 ---

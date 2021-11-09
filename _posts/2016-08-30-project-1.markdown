@@ -1,15 +1,15 @@
 ---
-title: Grant Proposal
-subtitle: California Science Center
+title: Marketing E-mail
+subtitle: Worldreader
 layout: default
 modal-id: 5
-date: 2016-08-30
+date: 2021-11-01
 img: CASC Proposal Thumb.png
 thumbnail: CASC Proposal Thumb.png
-alt: Proposal for the John and Jane Smith Foundation
-client: California Science Center
-project-date: 2016
-category: Propoosal Writing
-description: As part of the EndeavourLA Campaign for the amuel Oschin Air and Space Center, I created a proposal to secure a $7 million grant. <br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1-EbgHRWC9xFmhJMM4MXtBEfTGExM5ckc/view?usp=sharing" target="_">See It Here</a>
+alt: Marketing E-mail
+client: Worldreaderr
+project-date: 2021
+category: E-mail Marketing
+description: <h3>Why I Like It</h3> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1-EbgHRWC9xFmhJMM4MXtBEfTGExM5ckc/view?usp=sharing" target="_">See It Here</a>
 
 ---

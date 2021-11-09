@@ -1,6 +1,6 @@
 ---
 title: Magazine Article
-subtitle: Colorado School of Mines Foundation
+subtitle: Colorado School of Mines
 layout: default
 modal-id: 1
 date: 2020-01-01
@@ -10,6 +10,6 @@ alt: All in the (Oredigger) Family
 client: Colorado School of Mines
 project-date: 2020
 category: Marketing Content
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1SgIvQK7_dPxl3422V3SBUSRwCeDgIx4_/view?usp=sharing" target="_">See It Here</a>
+description: <h3>Why I Like It </h3>This article told the heartwarming story of a multigenerational Mines family, capturing the similarities and differences of their Mines experiences over the years and school spirit they share for life. I made sure to diversify my questions to fit each member of the family and all of them as a group. Organizing and executing these interviews as well as creating a holistic piece out of them was a challenging, enjoyable, and ultimately successful process. <br> <br> <a class="btn btn btn-primary" href="https://drive.google.com/file/d/1SgIvQK7_dPxl3422V3SBUSRwCeDgIx4_/view?usp=sharing" target="_">See It Here</a>
 
 ---

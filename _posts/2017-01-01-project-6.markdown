@@ -1,5 +1,5 @@
 ---
-title: Profile
+title: Profiles
 subtitle: Alpha Gamma Delta
 layout: default
 modal-id: 4
@@ -9,7 +9,7 @@ thumbnail: profile.png
 alt: Profile for Alpha Gamma Delta
 client: Alpha Gamma Delta
 project-date: 2017
-category: Personal Profile
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1yJqvhj1b7h9Xbq79h84WvoiiCH-Wdh4T/view?usp=sharing" target="_">See It Here</a>
+category: Profiles
+description: <h3>Why I Like Them</h3>These profiles about alumnae of Alpha Gamma Delta, an international women’s fraternity,were a great way to combine head and heart in a story. Each woman had a practical action she undertook for personal, professional, and altruistic reasons. Finding each of those elements, as well as learning more about the women as individuals, made this a joyful process.<br><br><a class="btn btn btn-primary" href="https://drive.google.com/file/d/1yJqvhj1b7h9Xbq79h84WvoiiCH-Wdh4T/view?usp=sharing" target="_">See It Here</a>
 
 ---
