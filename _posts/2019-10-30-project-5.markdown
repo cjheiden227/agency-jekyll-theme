@@ -1,6 +1,6 @@
 ---
-title: Proposal to Individual Donor/Investor
-subtitle: Colorado School of Mines Foundation
+title: Proposal
+subtitle: Colorado School of Mines
 layout: default
 modal-id: 2
 date: 2019-09-30
