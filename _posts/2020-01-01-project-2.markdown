@@ -2,7 +2,7 @@
 title: Magazine Article
 subtitle: Colorado School of Mines
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2020-01-01
 img: mines.png
 thumbnail: mines thumb.png

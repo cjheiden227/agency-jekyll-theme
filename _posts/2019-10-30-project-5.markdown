@@ -2,7 +2,7 @@
 title: Proposal
 subtitle: Colorado School of Mines
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2019-09-30
 img: Grewcock.png
 thumbnail: Grewcock.png
