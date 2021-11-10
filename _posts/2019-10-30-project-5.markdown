@@ -3,6 +3,7 @@ title: Proposal
 subtitle: Colorado School of Mines
 layout: default
 modal-id: 3
+clienturl: https://giving.mines.edu/
 date: 2019-09-30
 img: Grewcock.png
 thumbnail: Grewcock.png

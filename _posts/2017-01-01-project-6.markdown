@@ -5,6 +5,7 @@ layout: default
 modal-id: 5
 date: 2017-01-01
 img: profile.png
+clienturl: https://alphagammadelta.org/
 thumbnail: profile.png
 alt: Profile for Alpha Gamma Delta
 client: Alpha Gamma Delta
