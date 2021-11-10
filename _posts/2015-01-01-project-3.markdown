@@ -3,6 +3,7 @@ title: Brochure
 subtitle: California Science Center
 layout: default
 modal-id: 6
+clienturl: https://californiasciencecenter.org/
 date: 2015-01-01
 img: CASC brochure.png
 thumbnail: CASC brochure.png
